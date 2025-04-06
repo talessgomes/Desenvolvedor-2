@@ -7,4 +7,4 @@ Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 Imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 
-- Resolução da atividade(https://github.com/talessgomes/Desenvolvedor-2/tree/main/ex01)
+- [Resolução da atividade](https://github.com/talessgomes/Desenvolvedor-2/tree/main/ex01)
