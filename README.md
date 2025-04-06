@@ -21,5 +21,14 @@ IMPORTANTE:
  Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
  Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 - [Resolução da atividade - exercicio 03](https://github.com/talessgomes/Desenvolvedor-2/tree/main/ex03)
+
+#### 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
+Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 - [Resolução da atividade - exercicio 04](https://github.com/talessgomes/Desenvolvedor-2/tree/main/ex04)
+
+#### 5) Escreva um programa que inverta os caracteres de um string.
+
+IMPORTANTE:
+Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código; 
+Evite usar funções prontas, como, por exemplo, reverse;
 - [Resolução da atividade - exercicio 05](https://github.com/talessgomes/Desenvolvedor-2/tree/main/ex05)
